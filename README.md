@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/karunyachinni77/Space%20Game%20-%20Web%20-%20Pipeline/_apis/build/status%2Fkarunya-code.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/karunyachinni77/Space%20Game%20-%20Web%20-%20Pipeline/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
